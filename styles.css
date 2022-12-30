@@ -19,5 +19,18 @@ h1 {
     box-shadow: 0 0 20px 0 rgba(13, 77, 29, 0.8);
     background: -webkit-linear-gradient(rgb(0, 255, 242), rgb(19, 85, 74), rgb(34, 55, 53));
  
- 
   }
+
+ #sidebar {
+  width: 25%;
+  float: left;
+  background-color: #eee;
+  padding: 20px;
+}
+
+#main-content {
+  width: 75%;
+  float: right;
+  background-color: #fff;
+  padding: 20px;
+}
